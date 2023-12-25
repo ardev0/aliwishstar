@@ -1,7 +1,6 @@
 <!-- Ali R -->
 
 <div align="center">
-    <img src="https://your-image-url-here.png" width="200px">
     <h2>Hey, I'm Ali R! 👋</h2>
     <p>Student | Passionate about WordPress, Laravel, Android, and Security 🚀</p>
     <p>Let's code and secure the digital realm! 🛡️</p>
