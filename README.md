@@ -24,8 +24,8 @@
 
 ### 📫 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Follow me on [Twitter](https://twitter.com/yourhandle)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-rabizadeh/)
+- Follow me on [Twitter](https://twitter.com/alirabizadeh0)
 
 ### 🚀 Check Out My Projects
 
