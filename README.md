@@ -41,7 +41,6 @@
 ---
 
 <p align="center">
-    <img src="https://your-gif-url-here.gif">
     <br>
-    <sub>Black background for a sleek profile. 🖤</sub>
+    <sub>🖤</sub>
 </p>
